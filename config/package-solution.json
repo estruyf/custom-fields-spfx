@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "custom-fields-spfx-client-side-solution",
+    "id": "765139aa-5661-4cde-8f92-a06fae6c48ad",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "custom-fields-spfx.spapp"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "fded231d-7046-40cf-ba7d-617891ffc9c0",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "fded231d-7046-40cf-ba7d-617891ffc9c0",
+    "group": { "default": "Under Development" },
+    "title": { "default": "CustomFields" },
+    "description": { "default": "Project for custom fields in SPFx" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "CustomFields"
+    }
+  }]
+}
